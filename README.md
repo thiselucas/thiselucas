@@ -1,4 +1,4 @@
-##  🖥️ Olá, eu sou o Lucas e sou Desenvolvedor Full Stack! 🖥️
+##  🖥️ Olá, sou o Lucas e sou Desenvolvedor Full Stack! 🖥️
 <div align="center">
   <a href="https://github.com/thiselucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiselucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
